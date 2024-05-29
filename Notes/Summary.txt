@@ -1,0 +1,8 @@
+변수(int, long long, double, char, char*)
+연산자(산술%, 증간, 삼항, 논리, 비트, 할당)
+반복문(for, while, do~while)
+조건문(if, switch)
+함수(call by value / reference)
+배열(동일 자료형 집합)
+포인터 : 변수의 주소값(reference)을 갖는 변수		int * ptr = &a
+구조체(여러 자료형의 집합을 단일 타입으로 다루기 위함)

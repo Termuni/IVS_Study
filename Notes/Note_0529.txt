@@ -1,0 +1,13 @@
+ex3_2_string_input_include_empty.c --> 좋은 내용 있음 (White Space 내용)
+ex4_string_copy.c --> 좋은 내용 있음
+ch07_Pointer에 ex.2-1에서 좀 괜찮게 정리함(char 포인터, 어레이 관련)
+7장 포인터 pdf의 3. 포인터로 배열 다루기 (1) 에서 array와 pointer의 연관성에 대해 잘 설명함
+
+이중for문으로 sorting
+하나씩 비교해서 옮기기(swap)
+
+<Linked list>
+-> 몇개의 값이 정확히 올지 몰라서 만드는 것으로
+앞에는 값, 뒤에는 주소를 놔둠으로서 새로운 데이터가 오면 그 struct와 주소를 연결
+
+구조체 포인터 활용할 수 있음
