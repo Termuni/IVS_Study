@@ -1,0 +1,16 @@
+5장 ~ 11장 요약 = ex1_아파트 분양가 분석
+
+로그인 필요없는 웹크롤링 -> 정적인 웹크롤링
+
+- xml
+<data>
+	<name>홍길동</name>
+	<age>20</age>
+</data>
+<data>
+	<name>강선민</name>
+	<age>27</age>
+</data>
+
+div.head_info > span.value   -> 바로 밑인 경우
+바로 밑이 아닌 경우 그냥 spacebar로만 해도 됨
