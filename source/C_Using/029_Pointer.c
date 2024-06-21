@@ -8,7 +8,6 @@ int main()
         { 99, 110, 121, 132 }
     };
     int(*numPtr)[4] = numArr;
-
     printf("%p\n", *numPtr);
     printf("%p\n", *numArr);
     printf("%d\n", numPtr[2][1]);
