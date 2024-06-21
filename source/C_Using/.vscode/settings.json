@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "day_0621_1_pointer": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "stdio.h": "c"
     }
 }

@@ -25,8 +25,9 @@ int divide(int a, int b){
 }
 
 int main() {
-    typedef int (*FP_int_int2)(int, int);
-    FP_int_int2 operation;
+    //typedef int (*FP_int_int2)(int, int);
+    //FP_int_int2 operation;
+    int (*operation)(int,int);
 
     int num1, num2;
     char operator;
